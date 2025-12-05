@@ -1,22 +1,18 @@
 body {
     font-family: 'Roboto Slab', serif;
     background-color: #f0f0f0;
-    text-align: center;
-    margin: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.card-title {
+    color: #00695c; /* teal darken-2 color similar to navbar */
 }
 
 .container {
-    background-color: white;
-    padding: 20px;
-    border-radius: 10px;
-    display: inline-block;
-    text-align: left;
-}
-
-h1 {
-    color: #2E8B57;
-}
-
-ul {
-    line-height: 1.6;
+    margin-top: 20px;
+    margin-bottom: 40px;
 }
